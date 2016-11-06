@@ -1,0 +1,52 @@
+.textAlignCenter {
+    text-align: center;
+}
+
+.mrL15 {
+    margin-left: 15px;
+}
+
+.mrL20 {
+    margin-left: 20px;
+}
+
+.mrT10 {
+    margin-top: 10px;
+}
+
+.ngClassifieds .classified.ng-enter , .classified.ng-move {
+    transition: 0.4s all;
+    opacity:0;
+}
+
+.ngClassifieds .classified.ng-enter.ng-active , .classified.ng-move.ng-active {
+    opacity:1;
+}
+
+.ngClassifieds button .material-icons {
+	margin-top: 8px;	
+}
+
+.ngClassifieds .filterSection {
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.ngClassifieds button {
+	background-color: #009688!important;
+    color: #E4F4F2!important;
+}
+
+.ngClassifieds .classified-info .description {
+	height:144px;
+}
+
+.ngClassifieds .classified-info .tileTitle{
+	word-wrap: break-word; 
+	width: -132px;
+}
+
+.ngClassifieds .classified-info .colorTitle{
+    display: block;
+    height: 32px;
+}
